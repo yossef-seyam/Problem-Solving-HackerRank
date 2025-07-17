@@ -1,3 +1,0 @@
-list comprehension
-Find the Runner-Up Score!
-find the percentage
