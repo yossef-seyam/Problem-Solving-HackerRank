@@ -21,19 +21,9 @@ The above code will print Hello, World! on your screen. Try it yourself in the e
 
 **Tags:** Intro
 
-```java
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        for (int i = 0; i < nums.length; ++i) {
-            for (int j = i + 1; j < nums.length; ++j) {
-                if (nums[i] + nums[j] == target) {
-                    return new int[]{i, j};
-                }
-            }
-        }
-        return null;
-    }
-}
+```python
+if __name__ == '__main__':
+    print("Hello, World!")
 ```
 
 ##
