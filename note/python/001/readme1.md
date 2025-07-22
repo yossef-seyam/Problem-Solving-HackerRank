@@ -17,7 +17,7 @@ print(my_string)
 
 The above code will print Hello, World! on your screen. Try it yourself in the editor below!
 
-**Example:**
+
 
 **Tags:** Intro
 
@@ -27,8 +27,7 @@ if __name__ == '__main__':
 ```
 
 ##
-
-如果你同我一样热爱数据结构、算法、HackerRank，可以关注我 GitHub 上的 HackerRank 题解：[Problem-Solving-HackerRank][ajl]
+[Problem-Solving-HackerRank][ajl]
 
 [title]: https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true
 [ajl]: https://github.com/yossef-seyam/Problem-Solving-HackerRank
