@@ -34,6 +34,7 @@
 | 24  | [String Formatting]                           | String           |
 | 25  | [Capitalize!]                                 | String           |
 | 26  | [Text Wrap][026]               | Strings            |
+| 28  | [Arrays][028]               | Numpy |
 
 ## Medium
 
