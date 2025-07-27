@@ -33,8 +33,10 @@
 | 23  | [Designer Door Mat]                           | String, Pattern  |
 | 24  | [String Formatting]                           | String           |
 | 25  | [Capitalize!]                                 | String           |
-| 26  | [Text Wrap][026]               | Strings            |
-| 28  | [Arrays][028]               | Numpy |
+| 26  | [Text Wrap][026]                              | Strings          |
+| 28  | [Arrays][027]                                 | Numpy            |
+| 28  | [Shape and Reshape][028]                      | Numpy            |
+| 29  | [Transpose and Flatten][029]               | Numpy |
 
 ## Medium
 
@@ -56,3 +58,6 @@
 [note]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note
 [001]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/001/readme1.md
 [026]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/026/readme26.md
+[027]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/027/readme27.md
+[028]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/028/readme28.md
+[029]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/029/readme29.md
