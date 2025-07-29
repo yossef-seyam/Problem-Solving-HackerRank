@@ -42,6 +42,13 @@
 | 32  | [Eye and Identity][032]                     | Numpy |
 | 33  | [Array Mathematics][033]                    | Numpy |
 | 34  | [Floor, Ceil and Rint][034]                 | Numpy |
+| 40  | [Sum and Prod][040]               | Numpy |
+| 41  | [Min and Max][041]               | Numpy |
+| 42  | [Mean, Var, and Std][042]               | Numpy |
+| 43  | [Dot and Cross][043]               | Numpy |
+| 44  | [Inner and Outer][044]               | Numpy |
+| 45  | [Polynomials][045]               | Numpy |
+| 46  | [Linear Algebra][046]               | Numpy |
 
 ## Medium
 
@@ -100,10 +107,10 @@
 [037]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/037/readme37.md
 [038]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/038/readme38.md
 [039]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/039/readme39.md
-| 40  | [Sum and Prod][040]               | Numpy |
-| 41  | [Min and Max][041]               | Numpy |
-| 42  | [Mean, Var, and Std][042]               | Numpy |
-| 43  | [Dot and Cross][043]               | Numpy |
-| 44  | [Inner and Outer][044]               | Numpy |
-| 45  | [Polynomials][045]               | Numpy |
-| 46  | [Linear Algebra][046]               | Numpy |
+[040]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/040/readme40.md
+[041]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/041/readme41.md
+[042]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/042/readme42.md
+[043]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/043/readme43.md
+[044]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/044/readme44.md
+[045]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/045/readme45.md
+[046]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/046/readme46.md
