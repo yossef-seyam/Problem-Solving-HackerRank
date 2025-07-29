@@ -47,11 +47,11 @@
 
 | #   | Title                                      | Tag              |
 | :-- | :----------------------------------------- | :--------------- |
-| 1   | [Company Logo]                               | String, Frequency|
-| 2   | [Merge the Tools!]                           | String, Split    |
-| 3   | [The Minion Game]                            | String, Game     |
-| 4   | [Write a function]                           | Math, Function   |
-| 5   | [Compress the String!]                       | String           |
+| 35  | [Write a function][035]               | Introduction |
+| 36  | [The Minion Game][036]               | Strings |
+| 37  | [Merge the Tools!][037]               | Strings |
+| 38  | [Compress the String!][038]               | Itertools |
+| 39  | [Company Logo][039]               | Collections |
 
 ## Hard
 
@@ -95,3 +95,8 @@
 [032]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/032/readme32.md
 [033]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/033/readme33.md
 [034]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/034/readme34.md
+[035]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/035/readme35.md
+[036]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/036/readme36.md
+[037]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/037/readme37.md
+[038]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/038/readme38.md
+[039]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/039/readme39.md

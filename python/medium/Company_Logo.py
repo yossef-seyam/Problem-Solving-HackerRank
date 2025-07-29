@@ -22,7 +22,7 @@ sorted_list = sorted(count_list,key=lambda x:x[1],reverse=True)
 
 # if first 3 are equal
 if sorted_list[0][1] == sorted_list[1][1] and sorted_list[2][1] == sorted_list[1][1]:
-    s = sorted(sorted_list) # sort the list alphabitically
+    s = sorted(sorted_list)
     [print(s[i][0], s[i][1]) for i in range(3)]
 # if third and fourth are equal
 elif sorted_list[3][1] == sorted_list[2][1]:
