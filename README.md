@@ -100,3 +100,10 @@
 [037]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/037/readme37.md
 [038]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/038/readme38.md
 [039]: https://github.com/yossef-seyam/Problem-Solving-HackerRank/blob/master/note/python/039/readme39.md
+| 40  | [Sum and Prod][040]               | Numpy |
+| 41  | [Min and Max][041]               | Numpy |
+| 42  | [Mean, Var, and Std][042]               | Numpy |
+| 43  | [Dot and Cross][043]               | Numpy |
+| 44  | [Inner and Outer][044]               | Numpy |
+| 45  | [Polynomials][045]               | Numpy |
+| 46  | [Linear Algebra][046]               | Numpy |
